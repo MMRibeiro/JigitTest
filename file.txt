@@ -5,5 +5,3 @@ Other one.
 One more.
 And other.
 New line.
-
-
